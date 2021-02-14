@@ -52,7 +52,7 @@
     yazılabilir.
     
     concole.log(num1) yazarsak 1 sonucu çıkar
-    concole.log ((num1 == 1 && num2 == 2) || num3 = 4);
+    concole.log ((num1 == 1 && num2 == 2) || num3 = 4); 
 
 */
 
@@ -68,7 +68,8 @@
         while (i<20){
         console.log ("Sayımızın degeri= " + i)    
         i++}
-    
+    // WHILE İLE DO WHILE ARASINDAKİ FARK 
+    // BİRİSİ YAPMADAN ŞARTA BAKAR. DİĞERİ YAPIP ŞARTA BAKAR. 
     DO WHILE DÖNGÜSÜ
         var i = 1;
         do{
@@ -92,7 +93,7 @@
 
 /*  FONKSİYONLAR
 
-    var num1 =5, num2 =10
+    var num1 = 5, num2 =10
 
 function topla (){
     console.log ("Toplam= " + (num1 + num2))
